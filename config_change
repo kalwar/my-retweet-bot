@@ -1,8 +1,6 @@
 # my-retweet-bot
 
-python retweet.py
-
-Add a config file with
+Change this file to config
 
 [settings]
 search_query: your search query
