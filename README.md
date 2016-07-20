@@ -2,16 +2,7 @@
 
 python retweet.py
 
-Add a config file with 
-
-[settings]
-search_query: your search query
-# Leave empty for all languages
-tweet_language:
-
-# Create your app on http://apps.twitter.com
-[twitter]
-consumer_key:your cosumer key
-consumer_secret: your consumer secret
-access_token: your app access token
-access_token_secret: your access token secret
+Replace a config_change file with config
+Create a twitter app  http://apps.twitter.com
+Add your consumer key, secret, access token
+and access token secret in a config file
